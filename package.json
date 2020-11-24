@@ -1,0 +1,24 @@
+{
+  "name": "air-hockey_proyecto_fnal-redes",
+  "version": "1.0.0",
+  "description": "juego",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fredy-98/Air-Hockey_Proyecto_Fnal-Redes.git"
+  },
+  "author": "Fredy Caraballo Páez - Javier de las Salas - Juan Reyes - Gladis Páez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fredy-98/Air-Hockey_Proyecto_Fnal-Redes/issues"
+  },
+  "homepage": "https://github.com/Fredy-98/Air-Hockey_Proyecto_Fnal-Redes#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.0.1"
+  }
+}
