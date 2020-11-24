@@ -7,3 +7,6 @@ Integrantes
 - Javier De las Salas Álvarez
 - Gladys Ceneris Páez Pereira
 - Juan carlos reyes caro
+
+Video referente al juego
+https://www.youtube.com/watch?v=xZS3k-GnbUg
